@@ -3,7 +3,7 @@ open terminal in the correct path where the files are saved .
 
 
 
-compile code in terminal :java -cp ".\LBUGraphics.jar" com.turtle.TurtleGraphicsApp
+compile code in terminal : javac -cp .\LBUGraphics.jar com\turtle\TurtleGraphicsApp.java
 
 
 
